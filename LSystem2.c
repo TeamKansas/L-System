@@ -52,7 +52,7 @@
 
 #include "tiffDrawingTools.h"
 
-#define PI 3.1415926
+#define PI 3.14159265359
 
 #define WID 2000
 #define HWID 1000
